@@ -1,0 +1,31 @@
+button.main{
+    display: flex;
+    padding: 1rem, 2rem;
+    margin: 0.4rem;
+    border-radius: 4px;
+    border: none;
+    background-color: aquamarine;
+    align-items: center;
+}
+.primary{
+    padding: 1rem, 2rem;
+    margin: 0.4rem;
+    border-radius: 4px;
+    border: none;
+    background-color: blueviolet;
+    color: beige;
+}
+.secodary{
+    padding: 1rem, 2rem;
+    margin: 0.4rem;
+    border-radius: 4px;
+    border: none;
+    background-color: rgb(238, 168, 180);
+    color: black;
+}
+.letters{
+    padding: 0.3rem;
+    margin-right: 1rem;
+    background-color: rgb(103, 211, 215);
+    border-radius: 50%;
+}
